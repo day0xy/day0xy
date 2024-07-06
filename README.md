@@ -26,13 +26,17 @@ I'm day0xy.
 </div>
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=day0xy&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=day0xy&&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=day0xy&theme=github" />
   </a>
 </div>
+
+<div align="center">
+
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=day0xy&&theme=github" />
+  </a>
+
+</div>
+
+
