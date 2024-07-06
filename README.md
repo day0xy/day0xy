@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**day0xy/day0xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm day0xy.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Dapp development.
+- 🌱 I’m currently learning Rust, Solidity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  
+
+
+  [![ArchLinux](https://img.shields.io/badge/ArchLinux-grey?style=flat-square&logo=arch-linux)](https://archlinux.org)
+  [![KDE](https://img.shields.io/badge/KDE-grey?style=flat-square&logo=KDE)](https://kde.org)
+  [![Neovim](https://img.shields.io/badge/Neovim-grey?style=flat-square&logo=neovim)](https://neovim.io/)
+
+
+  [![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)](https://www.python.org/)
+  [![Go](https://img.shields.io/badge/Go-grey?style=flat-square&logo=go)]((https://go.dev/))
+  [![Rust](https://img.shields.io/badge/Rust-grey?style=flat-square&logo=rust)](https://www.rust-lang.org/)
+  [![Solidity](https://img.shields.io/badge/Solidity-grey?style=flat-square&logo=solidity)](https://soliditylang.org/)
+
+
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=day0xy&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=day0xy&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=day0xy&theme=github" />
+  </a>
+</div>
