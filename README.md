@@ -8,7 +8,7 @@ I was previously dedicated to bug bounty, cybersecurity.<br>
 
 <div align="center">
   
-
+<br><br>
 
   [![ArchLinux](https://img.shields.io/badge/ArchLinux-grey?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![Nixos](https://img.shields.io/badge/Nixos-grey?style=flat-square&logo=nixos)](https://nixos.org/)
