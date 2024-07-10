@@ -3,7 +3,9 @@
 I'm day0xy.
 
 I’m currently working on Dapp development.
+
 I’m currently learning Rust, Solidity.
+
 I was previously dedicated to bug bounty, cybersecurity.
 
 <div align="center">
