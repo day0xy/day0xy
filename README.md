@@ -21,7 +21,7 @@ I was previously dedicated to bug bounty, cybersecurity.<br>
   [![Go](https://img.shields.io/badge/Go-grey?style=flat-square&logo=go)]((https://go.dev/))
   [![Rust](https://img.shields.io/badge/Rust-grey?style=flat-square&logo=rust)](https://www.rust-lang.org/)
   [![Solidity](https://img.shields.io/badge/Solidity-grey?style=flat-square&logo=solidity)](https://soliditylang.org/)
-  [![Typescript](https://img.shields.io/badge/Typescript-grey?style=flat-square&logo=typescript)](https://soliditylang.org/)
+
 
 
 
