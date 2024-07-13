@@ -11,9 +11,8 @@ I was previously dedicated to bug bounty, cybersecurity.<br>
 <br><br>
 
   [![ArchLinux](https://img.shields.io/badge/ArchLinux-grey?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![Nixos](https://img.shields.io/badge/Nixos-grey?style=flat-square&logo=nixos)](https://nixos.org/)
-  [![KDE](https://img.shields.io/badge/KDE-grey?style=flat-square&logo=KDE)](https://kde.org)
-  [![Neovim](https://img.shields.io/badge/Neovim-grey?style=flat-square&logo=neovim)](https://neovim.io/)
+  [![KDE Plasma](https://img.shields.io/badge/KDE-grey?style=flat-square&logo=KDE)](https://kde.org)
+
 
 
   [![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)](https://www.python.org/)
