@@ -2,7 +2,7 @@
 
 I'm day0xy.
 
-I’m currently working on Dapp development.<br>
+I’m currently working on dApp development.<br>
 I’m currently learning Rust🦀.<br>
 I was previously dedicated to bug bounty, cybersecurity.<br>
 
