@@ -2,10 +2,10 @@
 
 I'm day0xy.
 <h2></h2>
+<br />
 I’m currently working on dApp development.<br>
 I’m currently learning Rust🦀.<br>
-I was previously dedicated to bug bounty, cybersecurity.<br>
-
+I was previously dedicated to bug bounty, cybersecurity.
 <h2></h2>
 <br />
 <div align="center">
