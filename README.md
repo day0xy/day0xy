@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 I'm day0xy.
-
+<h2></h2>
 I’m currently working on dApp development.<br>
 I’m currently learning Rust🦀.<br>
 I was previously dedicated to bug bounty, cybersecurity.<br>
 
+<h2></h2>
+<br />
 <div align="center">
-  
-<br><br>
+
+
 
   [![ArchLinux](https://img.shields.io/badge/ArchLinux-grey?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![KDE Plasma](https://img.shields.io/badge/KDE-grey?style=flat-square&logo=KDE)](https://kde.org)
@@ -21,24 +23,20 @@ I was previously dedicated to bug bounty, cybersecurity.<br>
   [![Rust](https://img.shields.io/badge/Rust-grey?style=flat-square&logo=rust)](https://www.rust-lang.org/)
   [![Solidity](https://img.shields.io/badge/Solidity-grey?style=flat-square&logo=solidity)](https://soliditylang.org/)
 
-
-
-
 </div>
 
-<div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=day0xy&theme=github" />
-  </a>
-</div>
+<h2></h2>
+
+<br />
 
 
-<div align="center">
-
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=day0xy&&theme=github" />
   </a>
-
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=day0xy&theme=github" />
+  </a>
 </div>
 
 
