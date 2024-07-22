@@ -15,14 +15,6 @@ I was previously dedicated to bug bounty, cybersecurity.
   [![ArchLinux](https://img.shields.io/badge/ArchLinux-grey?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![KDE Plasma](https://img.shields.io/badge/KDE-grey?style=flat-square&logo=KDE)](https://kde.org)
 
-
-
-  [![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)](https://www.python.org/)
-  ![C++](https://img.shields.io/badge/-C++-grey?style=flat&logo=C%2B%2B)
-  [![Go](https://img.shields.io/badge/Go-grey?style=flat-square&logo=go)]((https://go.dev/))
-  [![Rust](https://img.shields.io/badge/Rust-grey?style=flat-square&logo=rust)](https://www.rust-lang.org/)
-  [![Solidity](https://img.shields.io/badge/Solidity-grey?style=flat-square&logo=solidity)](https://soliditylang.org/)
-
 </div>
 
 <h2></h2>
