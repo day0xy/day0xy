@@ -22,16 +22,3 @@ I was previously dedicated to bug bounty, cybersecurity.
   </a>
 
 </div>
-
-<h2></h2>
-<br />
-
-
-<div align="center">
-
-  [![ArchLinux](https://img.shields.io/badge/ArchLinux-grey?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![KDE Plasma](https://img.shields.io/badge/KDE-grey?style=flat-square&logo=KDE)](https://kde.org)
-
-
-</div>
-
